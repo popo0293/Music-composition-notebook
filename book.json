@@ -1,0 +1,3 @@
+{
+"plugins": ["autocover", "mathjax", "mermaid-gb3", "sequence"]
+}
